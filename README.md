@@ -86,3 +86,7 @@ Environment files will be in `envs/`.
 ## Citation
 
 The citation will be added on publication.
+
+## License
+
+[MIT](LICENSE)
