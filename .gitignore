@@ -1,0 +1,11 @@
+# data and model outputs are never committed
+data/*
+!data/README.md
+*.h5ad
+*.npy
+*.npz
+*.pt
+*.ckpt
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
